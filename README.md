@@ -1,8 +1,4 @@
 # fcc-flask
-Learn Flask for Python - Full Tutorial
+Learn Flask for Python - Full Tutorial. 
 
-
-```
-python3 -m pipenv
-pipenv install flask flask-sqlalchemy
-```
+See Heroku app [here.](https://fcc-flask.herokuapp.com/)
